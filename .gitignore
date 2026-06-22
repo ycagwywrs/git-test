@@ -1,0 +1,13 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+.vscode/
+.history/
+*.log
+node_modules/
+.env
